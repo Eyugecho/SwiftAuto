@@ -1,0 +1,18 @@
+/* body,html,#root{
+    margin:0;
+    position: relative;
+
+} */
+/* #root > div{
+    z-index: -1;
+} */
+/* #root > div:first-child  {
+
+   position : sticky !important;
+   top:0;
+   z-index: 9 !important;
+} */
+/* .MuiAppBar-positionFixed{
+    position: static !important;
+   
+} */
